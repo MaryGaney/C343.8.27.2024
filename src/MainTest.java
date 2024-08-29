@@ -9,6 +9,7 @@ class MainTest {
         assertEquals(5, Main.add(2,3));
         //will not work for if b is negative then it will continue to decrease as a negative number
         //if a is negative it will work just fine
+        //test
         assertEquals(3, Main.add(4,-1));
     }
 
